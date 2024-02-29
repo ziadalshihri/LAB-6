@@ -1,0 +1,10 @@
+body{
+
+    max-width: 60% ;
+    margin: auto ;
+    text-align: center;
+}
+button{
+    padding: 3% 5% ;
+    font-size: 25px ;
+}
